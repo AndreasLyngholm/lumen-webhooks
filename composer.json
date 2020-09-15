@@ -1,5 +1,5 @@
 {
-    "name": "AndreasLyngholm/lumen-webhooks",
+    "name": "andreaslyngholm/lumen-webhooks",
     "description": "Send webhooks in Laravel apps",
     "keywords": [
         "spatie",
